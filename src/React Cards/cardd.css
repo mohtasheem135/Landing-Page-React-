@@ -1,0 +1,40 @@
+.card-holder-box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 35px 0px;
+    /* border: 2px solid black; */
+}
+
+.card-head-1{
+        position: absolute;
+        margin: 75% 34%;
+        font-size: 55px;
+}
+
+.card-img13{
+    width: 55%;
+    position: absolute;
+    margin: 20% 25%;
+}
+
+.List{
+    /* border: 2px solid white; */
+    position: absolute;
+    margin-top: 110%;
+
+}
+
+.List li{
+    /* border: 2px solid rgb(255, 0, 0); */
+    color: white;
+    cursor: default;
+}
+
+/* .List button{
+    margin-left: 65px;
+    margin-top: 15px;
+    padding: 6px 25px;
+    font-size: 17px;
+    cursor: pointer;
+} */
